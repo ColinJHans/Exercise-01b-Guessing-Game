@@ -40,7 +40,7 @@ Save these files and quit Visual Studio Code. In GitHub Desktop, you should now 
 
 If you return to and refresh your GitHub repository page, you should now see that your files have been changed (with a new date).
 
-Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-01b-Guessing-Game) on Canvas.
+Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/ColinJHans/Exercise-01b-Guessing-Game) on Canvas.
 
 The final state of the file should be as follows (replacing my information with yours):
 
